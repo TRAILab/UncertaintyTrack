@@ -1,0 +1,7 @@
+numpy==1.23.5
+matplotlib
+argcomplete
+pycocotools
+wandb
+tensorboard
+git+https://github.com/JonathonLuiten/TrackEval.git
